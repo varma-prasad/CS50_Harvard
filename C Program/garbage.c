@@ -8,4 +8,4 @@ int main(void)
 	{
 		printf("%i\n",scores[i] );
 	}
-} 
+}
