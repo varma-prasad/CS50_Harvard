@@ -7,7 +7,8 @@ def height(n):
 	while True:
 		try:
 			if n>0:
-
+			    break
+			
 		except ValueError:
 			print("wrong input")
 	return n	
